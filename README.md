@@ -19,6 +19,8 @@ Files included in the repo:
 ===========================
 - 'README.md'
 
+- 'CodeBook.md'    : explains all the variables used
+
 - 'run_analysis.R' : reads and merges the train and test data sets and creates an 
                      independent data set with a long format.
 
